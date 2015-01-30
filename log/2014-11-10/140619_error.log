@@ -1,0 +1,186 @@
+14:06:19 683 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 686 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.AIDef has no method setSerialVersionUID
+14:06:19 687 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 687 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 688 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 688 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.CampDef has no method setSerialVersionUID
+14:06:19 690 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 690 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 691 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 691 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.CareerDef has no method setSerialVersionUID
+14:06:19 693 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 694 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 696 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 696 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.ConfigDef has no method setSerialVersionUID
+14:06:19 697 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 697 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 697 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 697 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.FamilyDef has no method setSerialVersionUID
+14:06:19 698 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 698 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 698 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 698 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.FamilyRoleJurisDef has no method setSerialVersionUID
+14:06:19 699 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 699 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 700 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 700 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.FightDef has no method setSerialVersionUID
+14:06:19 703 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 703 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 706 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 707 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.BlessConsumeItemDef has no method setSerialVersionUID
+14:06:19 708 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 708 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.BlessConsumeItemDef has no method setSerialVersionUID
+14:06:19 708 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 708 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 709 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 709 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 710 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 710 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.ChestDef has no method setSerialVersionUID
+14:06:19 711 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 711 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.ChestDef has no method setSerialVersionUID
+14:06:19 712 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 712 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 713 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 713 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 713 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 713 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.CurrencyItemDef has no method setSerialVersionUID
+14:06:19 714 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 715 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.CurrencyItemDef has no method setSerialVersionUID
+14:06:19 715 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 715 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 716 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 716 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 716 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 716 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.EquipDef has no method setSerialVersionUID
+14:06:19 717 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 717 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.EquipDef has no method setSerialVersionUID
+14:06:19 719 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 719 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 720 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 720 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 722 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 722 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.ExpConsumeItemDef has no method setSerialVersionUID
+14:06:19 723 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 723 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.ExpConsumeItemDef has no method setSerialVersionUID
+14:06:19 723 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 723 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 724 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 724 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 724 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 725 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.ExpSwordItemDef has no method setSerialVersionUID
+14:06:19 726 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 726 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.ExpSwordItemDef has no method setSerialVersionUID
+14:06:19 726 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 726 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 727 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 727 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 727 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 727 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.GemDef has no method setSerialVersionUID
+14:06:19 728 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 728 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.GemDef has no method setSerialVersionUID
+14:06:19 729 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 729 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 730 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 730 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 731 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 731 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.GoldItemDef has no method setSerialVersionUID
+14:06:19 732 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 732 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.GoldItemDef has no method setSerialVersionUID
+14:06:19 732 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 732 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 733 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 733 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 733 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 733 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.IncreateItemDef has no method setSerialVersionUID
+14:06:19 734 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 734 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.IncreateItemDef has no method setSerialVersionUID
+14:06:19 734 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 734 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 735 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 735 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 735 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 736 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.NomalItemDef has no method setSerialVersionUID
+14:06:19 736 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 736 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.NomalItemDef has no method setSerialVersionUID
+14:06:19 737 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 737 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 737 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 738 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 738 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 738 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.PotionItemDef has no method setSerialVersionUID
+14:06:19 739 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 739 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.PotionItemDef has no method setSerialVersionUID
+14:06:19 739 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 739 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 740 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 740 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 741 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 741 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.ResourcesItemDef has no method setSerialVersionUID
+14:06:19 741 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 742 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.ResourcesItemDef has no method setSerialVersionUID
+14:06:19 742 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 742 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 743 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 743 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 743 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 743 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.ScrollItemDef has no method setSerialVersionUID
+14:06:19 744 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 744 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.ScrollItemDef has no method setSerialVersionUID
+14:06:19 745 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 745 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 746 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 746 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 746 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 746 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.SkillBookDef has no method setSerialVersionUID
+14:06:19 747 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 747 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.SkillBookDef has no method setSerialVersionUID
+14:06:19 747 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 747 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 748 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 748 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 749 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 749 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.TaskItemDef has no method setSerialVersionUID
+14:06:19 750 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 750 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.item.TaskItemDef has no method setSerialVersionUID
+14:06:19 750 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 750 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 751 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 751 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 751 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 751 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.LevelDef has no method setSerialVersionUID
+14:06:19 751 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 751 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 752 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 753 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.MapDef has no method setSerialVersionUID
+14:06:19 754 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 754 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.entity.PolygonDef dosen't has the method setSerialVersionUID
+14:06:19 754 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 755 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.entity.PointDef dosen't has the method setSerialVersionUID
+14:06:19 755 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 755 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.entity.PolygonDef dosen't has the method setSerialVersionUID
+14:06:19 755 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 755 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.entity.PointDef dosen't has the method setSerialVersionUID
+14:06:19 755 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 755 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.entity.PolygonDef dosen't has the method setSerialVersionUID
+14:06:19 755 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 756 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.entity.PointDef dosen't has the method setSerialVersionUID
+14:06:19 756 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 756 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.entity.TeleportDef dosen't has the method setSerialVersionUID
+14:06:19 756 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 756 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.entity.AreaDef dosen't has the method setSerialVersionUID
+14:06:19 757 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 757 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.entity.PointDef dosen't has the method setSerialVersionUID
+14:06:19 757 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 757 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.entity.MonsterRefreshDef dosen't has the method setSerialVersionUID
+14:06:19 758 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 758 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.entity.MapNpcDef dosen't has the method setSerialVersionUID
+14:06:19 758 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 758 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 759 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 759 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.NPCDef has no method setSerialVersionUID
+14:06:19 760 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 760 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle
+14:06:19 760 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 760 ERROR [main] com.cs.tool.impl.XmlTool com.base.def.type.PetDef has no method setSerialVersionUID
+14:06:19 761 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no @Describle annotation
+14:06:19 761 ERROR [main] com.cs.tool.impl.XmlTool serialVersionUID has no describle

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defs class="com.base.def.type.ConfigDef">
+	<def>
+		<id value="地图id" /><!-- int -->
+		<name value="地图名称" /><!-- string -->
+		<mapType value="地图类型" /><!-- int -->
+		<startEventId value="进入地图后第一个打开的事件" /><!-- int -->
+		<scenedef class="Scenedef">
+			<xs value="x集合" /><!-- string，逗号分隔 -->
+			<ys value="y集合" /><!-- string，逗号分隔 -->
+			<zs value="z集合" /><!-- string，逗号分隔 -->
+			<indexs value="顶点索引" /><!-- string，逗号分隔 -->
+			<lineDefs><!-- 障碍墙 -->
+				<x1 value="x1" /><!-- int -->
+				<y1 value="y1" /><!-- int -->
+				<x2 value="x2" /><!-- int -->
+				<y2 value="y2" /><!-- int -->
+			</lineDefs>
+		</scenedef>
+		<areaMap><!-- 区域map -->
+			<e key="区域id" class="AreaDef">
+				<pointDefs><!-- 区域点集合list/array -->
+					<e class="PointDef">
+						<x value="x" /><!-- int -->
+						<y value="y" /><!-- int -->
+					</e>
+				</pointDefs>
+			</e>
+			<e key="区域id" class="AreaDef">
+				<pointDefs><!-- 区域点集合list/array -->
+					<e class="PointDef">
+						<x value="x" /><!-- int -->
+						<y value="y" /><!-- int -->
+					</e>
+				</pointDefs>
+			</e>
+		</areaMap>
+		<eventMap><!-- 事件map -->
+			<e key="事件id" class="EventDef">
+				<ecInter class="ECMapUnitLiveDef"><!-- 地图事件：单位存活 -->
+					<unitType value="单位类型" />
+					<unitId value="单位id(如果id为0，则表示接受该类型的所有单位)" />
+					<num value="数量" />
+				</ecInter>
+				<eaInters>
+					<e class="EAMapUnitRefreshDef"><!-- 地图动作：单位刷新 -->
+						<refreshId value="刷新id" />
+					</e>
+					<e class="EAMapUnitRefreshDef"><!-- 地图动作：单位刷新 -->
+						<refreshId value="刷新id" />
+					</e>
+				</eaInters>
+			</e>
+			<e key="事件id" class="EventDef">
+				<ecInter class="ECMapUnitDeadDef"><!-- 事件条件：指定type、id的单位死亡num个 -->
+					<unitType value="单位类型" />
+					<unitId value="单位id(如果id为0，则表示接受该类型的所有单位)" />
+					<num value="数量" />
+				</ecInter>
+				<eaInters>
+					<e class="EAMapUnitRefreshDef"><!-- 地图动作：单位刷新 -->
+						<refreshId value="刷新id" />
+					</e>
+					<e class="EAMapUnitRefreshDef"><!-- 地图动作：单位刷新 -->
+						<refreshId value="刷新id" />
+					</e>
+				</eaInters>
+			</e>
+		</eventMap>
+		<unitRefreshDef><!-- 单位刷新map -->
+			<e key="刷新id" class="MapUnitRefreshDef">
+				<areaId value="区域编号" /><!-- int -->
+				<unitMap><!-- key单位id, value单位数量 -->
+					<e key="单位id" value="单位数量" />
+					<e key="单位id" value="单位数量" />
+				</unitMap>
+			</e>
+			<e key="刷新id" class="MapUnitRefreshDef">
+				<areaId value="区域编号" /><!-- int -->
+				<unitMap><!-- key单位id, value单位数量 -->
+					<e key="单位id" value="单位数量" />
+					<e key="单位id" value="单位数量" />
+				</unitMap>
+			</e>
+		</unitRefreshDef>
+
+		<dungeonType value="副本类型(普通,精英等)" /><!-- int -->
+		<brithAreaId value="出生区域" /><!-- int -->
+		<energyConsum value="体力消耗" /><!-- int -->
+		<level value="挑战副本所需等级" /><!-- int -->
+		<minRole value="开启多人副本的最小玩家数量" /><!-- int -->
+		<maxRole value="开启多人副本的最大玩家数量" /><!-- int -->
+		<dayLimit value="副本每次挑战次数限制" /><!-- int -->
+		<limitTime value="挑战副本的限制时间" /><!-- int -->
+		<limitItemIds>
+			<e value="副本中限制使用的道具id" /><!-- long -->
+			<e value="副本中限制使用的道具id" /><!-- long -->
+		</limitItemIds>
+		<dropDef><!-- 掉落配置 -->
+			<creepsDropMap value="小怪掉落配置"></creepsDropMap><!-- string -->
+		</dropDef>
+		<rebornStrategy value="复活策略"/>
+		<rebornX value="复活x坐标"/>
+		<rebornY value="复活y坐标"/>
+		<canInterSoul value="true/false"/>
+		<passGoalDef class="KillUnitsNumPassGoalDef"><!-- 通关目标 -->
+			<killUnitsMap>
+				<e key="单位id" value="击杀数量" />
+				<e key="单位id" value="击杀数量" />
+			</killUnitsMap>
+		</passGoalDef>
+		<passGoalDef class="GainItemsNumPassGoalDef"><!-- 通关目标 -->
+			<itemsMap>
+				<e key="单位id" value="获得数量" />
+				<e key="单位id" value="获得数量" />
+			</itemsMap>
+		</passGoalDef>
+		<passGoalDef class="TalkToUnitPassGoalDef"><!-- 通关目标 -->
+			<unitId value="单位id"/>
+		</passGoalDef>
+		<passGoalDef class="TalkToUnitPassGoalDef"><!-- 通关目标 -->
+			<areaDef>
+				<pointDefs><!-- 区域点集合list/array -->
+					<e class="PointDef">
+						<x value="x" /><!-- int -->
+						<y value="y" /><!-- int -->
+					</e>
+				</pointDefs>
+			</areaDef>
+		</passGoalDef>
+		<passGoalDef class="ProtectUnitsPassGoalDef"><!-- 通关目标 -->
+		</passGoalDef>
+		<passGoalDef class="GainScoreNumPassGoalDef"><!-- 通关目标 -->
+			<unitsScoreMap>
+				<e key="单位id" value="携带分数" />
+				<e key="单位id" value="携带分数" />
+			</unitsScoreMap>
+		</passGoalDef>
+	</def>
+</defs>
